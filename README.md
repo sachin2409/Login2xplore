@@ -6,7 +6,7 @@
 * JPDB supports and advocates for true serverless and pluggable API development.
 * Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
 * [Documentation of JsonPowerDB](http://login2explore.com/jpdb/docs.html)
-
+---
 
 ### Benefits of using JsonPowerDB
 - Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
