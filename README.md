@@ -19,7 +19,7 @@
 ---
 
 ### Release History
-#### v0.0.0 (27/02/2021)
+#### v0.0.0 (30/06/2022)
 
 ## Introduction
 In this project, you can do the following:
